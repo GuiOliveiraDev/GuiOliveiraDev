@@ -6,7 +6,7 @@
 
 *Aqui colocarei toda minha trajetória como estudante de programação, e também, num futuro próximo,  como Desenvolvedor profissional.*
 
-## Essas São algumas linguagens que estou estudando no momento:
+## linguagens e tecnologias que estou estudando no momento:
 <div>
   <img width="35px" heigth="35px" alt="HTML Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="35px" heigth="35px" alt="CSS Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
